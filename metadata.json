@@ -1,0 +1,6 @@
+{
+  "name": "SceneRoll",
+  "description": "Dark storyboard studio for generating up to 20 sequentially numbered scene images (Scene 1 to Scene 20) using reusable predefined prompt instructions, individual downloads, and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
